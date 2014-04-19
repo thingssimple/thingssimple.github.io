@@ -74,17 +74,17 @@ h2 {
 }
 
 ul {
-  border-top: 1px solid rgba(0,0,0,0.2);
-  padding-top: 1.5em;
   width: 60%;
 }
 
 li {
   float: left;
+  padding-top: 1.5em;
   width: 33%;
 }
 
 li:nth-child(2) {
+  border-top: 1px solid rgba(0,0,0,0.2);
   text-align: center;
 }
 
